@@ -17,10 +17,6 @@ fee collection, academic performance and faculty distribution.
 - Data Modeling
 - Data Visualization
 
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard-overview.png)
-
 ## 📈 Key KPIs
 
 - Total Applications
@@ -42,3 +38,4 @@ Power Query was used for data cleaning and transformation.
 - Fee collection trends
 - Academic performance
 - Admission agent performance
+
